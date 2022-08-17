@@ -47,6 +47,7 @@ class Site extends Model
 	    if($query->getNumRows()>0){
 	        return $query->getRow();
 	    }
+	    
 	    return FALSE;
  	}
 
