@@ -46,9 +46,8 @@ function dDebug($callee)
     foreach ($args as $arg)
     {
         echo '<strong>Debug #' . ++$i . ' of ' . $total_args . '</strong>: ' . '<br>';
-
         var_dump($arg);
     }
 
     echo "</code></pre></fieldset><div><br>";
-}
+}#<!----!>
