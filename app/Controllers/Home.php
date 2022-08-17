@@ -24,12 +24,10 @@
             .header-bg{width: 440px !important; height: 10px !important;}
             .main-header{line-height: 28px !important;}
             .main-subheader{line-height: 28px !important;}
-            
             /*----- --features ---------*/
             .feature{width: 420px !important;}
             .feature-middle{width: 400px !important; text-align: center !important;}
             .feature-img{width: 440px !important; height: auto !important;}
-            
             .container{width: 440px !important;}
             .container-middle{width: 420px !important;}
             .mainContent{width: 400px !important;}
