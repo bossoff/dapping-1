@@ -26,8 +26,6 @@
             .main-subheader{line-height: 28px !important;}
             /*----- --features ---------*/
             .feature{width: 420px !important;}
-
-
             .feature-middle{width: 400px !important; text-align: center !important;}
             .feature-img{width: 440px !important; height: auto !important;}
             .container{width: 440px !important;}
@@ -44,11 +42,9 @@
             .prefooter-subheader{padding: 0 10px !important; line-height: 24px !important;}
             /*------- footer ------*/
             .top-bottom-bg{width: 420px !important; height: auto !important;}
-            
         }
         
         @media only screen and (max-width: 479px){
-        
         	/*------ top header ------ */
             .header-bg{width: 280px !important; height: 10px !important;}
             .top-header-left{width: 260px !important; text-align: center !important;}
@@ -65,7 +61,6 @@
             .feature-middle{width: 240px !important; text-align: center !important;}
             .feature-img{width: 260px !important; height: auto !important;}
 
-            
             .container{width: 290px !important;}
             .container-middle{width: 260px !important;}
             .mainContent{width: 240px !important;}
