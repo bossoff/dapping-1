@@ -17,17 +17,14 @@
             box-sizing: border-box;
             font-family: sans-serif;
         }
-
         a {
             text-decoration: none;
             color: #64748B;
         }
-
         span {
             color: #3F83F8;
             font-weight: bold;
         }
-
         nav {
             opacity: 1;
             background-color: #fff;
@@ -348,9 +345,6 @@
                 <li><a href="<?=base_url();?>">Apps</a></li>
             </ul>
         </nav>
-
-
-   
    
     <?= $this->renderSection("content");?>
     <!-- Scripts -->
@@ -379,6 +373,7 @@
             </div>
         </footer>
     </section>
+    
      <?= $this->include('view/inc/js.php');?>
 
 </body>

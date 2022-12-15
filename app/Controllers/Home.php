@@ -27,6 +27,8 @@
             
             /*----- --features ---------*/
             .feature{width: 420px !important;}
+
+
             .feature-middle{width: 400px !important; text-align: center !important;}
             .feature-img{width: 440px !important; height: auto !important;}
             
@@ -158,6 +160,7 @@
 												<td style="border-right: 2px solid #ff634c; padding: 5px; background: #fff; color: #000; font-weight: bold;">{date}</td>
 											</tr>
 										</tbody>
+										
 										
 									</table>
 

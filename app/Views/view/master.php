@@ -17,16 +17,13 @@
             background-color: #fff;
             overflow-x: hidden;
         }
-
         a, a:hover {
             text-decoration: none;
 
         }
-
         .header {
             border-bottom: 3px solid #000;
         }
-
         .header ul {
             display: flex;
             padding: 20px 30px;
@@ -35,7 +32,6 @@
             text-align: center;
             align-items: center;
         }
-
         .header ul li {
             width: 30%;
             list-style: none;
@@ -54,7 +50,6 @@
             width: 112px;
             height: 69px;
         }
-
         nav ul {
             width: 75%;
             margin: 20px auto;

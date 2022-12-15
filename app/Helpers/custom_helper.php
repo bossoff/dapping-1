@@ -40,9 +40,7 @@ function dDebug($callee)
 
     echo '<div><fieldset style="background: #fefefe !important; border:1px red solid; padding:15px">';
     echo '<legend style="background:blue; color:white; padding:5px;">'.$callee['file'].' @line: '.$callee['line'].'</legend><pre><code>';
-
     $i = 0;
-
     foreach ($args as $arg)
     {
         echo '<strong>Debug #' . ++$i . ' of ' . $total_args . '</strong>: ' . '<br>';
